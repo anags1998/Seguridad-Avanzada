@@ -1,0 +1,1 @@
+El adversario, dado un conjunto de cifrados correspondientes a uno de los conjuntos anteriores, tendria que seleccionar el correcto.
